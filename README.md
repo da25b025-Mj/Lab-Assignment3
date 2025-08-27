@@ -1,6 +1,6 @@
 #INTRODUCTION
 My name is Molakala Jaswanth Reddy. I am from AndhraPradesh.
-I like watching movies.
+I like watching movies.I am intrested in adventures and solving math problems.
 #Aspects about Git:
 As it is a version control system. As we were able maintain the history of our file and changes made to it.
 which is not possible in other. So I like it.
