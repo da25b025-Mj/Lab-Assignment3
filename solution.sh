@@ -33,7 +33,7 @@ grep -w TODO *.py
 # Your command here
 
 # 9. Show the last 20 commands entered in the terminal
-history |tail -n 20
+history 20
 # Your command here
 
 # 10. Show processes sorted by memory usage
@@ -41,9 +41,9 @@ ps aux --sort=-%mem
 # Your command here
 
 # 11. Find all directories named "backup" anywhere on the system
-find/ -type d -name backup
+find / -type d -name backup
 # Your command here
 
 # 12. Replace every occurrence of "foo" with "bar" in "example.txt" and save to "new_example.txt"
-sed "s/foo/bar" example.txt new_example.txt
+sed 's/foo/bar/g' example.txt > new_example.txt
 # Your command here
